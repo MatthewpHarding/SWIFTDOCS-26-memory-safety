@@ -162,3 +162,4 @@ func someFunction() {
 //: The structure is either not captured by any closures, or it’s captured only by nonescaping closures.
 //:
 //: If the compiler can’t prove the access is safe, it doesn’t allow the access.
+
